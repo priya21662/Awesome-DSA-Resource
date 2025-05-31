@@ -5,7 +5,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resource?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resource?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/network/members)
+[![GitHub Forks](https://img.shields.io/github/forks/avinash201199/Awesome-DSA-Resource?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/network/members)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avinash201199.Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources)
 
 
