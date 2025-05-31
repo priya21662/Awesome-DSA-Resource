@@ -3,10 +3,11 @@
 
 *Your complete roadmap to mastering Data Structures & Algorithms*
 
-[![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources)
+[![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/commits)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avinash201199.Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources)
-[![Open Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources/issues)
-[![Last Updated](https://img.shields.io/github/last-commit/avinash201199/Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources/commits)
+
 
 This repository is a curated collection of high-quality resources to help you learn and master **Data Structures and Algorithms (DSA)**.
 
