@@ -1,14 +1,20 @@
 #  Data Structures and Algorithms Resources
 
 
-Introducing the DSA Community Resource Repository!
+*Your complete roadmap to mastering Data Structures & Algorithms*
 
-Greetings, fellow enthusiasts of Data Structures and Algorithms (DSA)! I am thrilled to announce the launch of our DSA Community Resource Repository on GitHub. This repository aims to serve as a hub of knowledge, fostering collaboration and resource sharing among passionate learners like you.
+[![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avinash201199.Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources)
+[![Open Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources/issues)
+[![Last Updated](https://img.shields.io/github/last-commit/avinash201199/Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources/commits)
 
-Within this repository, you will find a comprehensive collection of valuable resources dedicated to enhancing your understanding of DSA. From implementation examples to algorithmic explanations, problem-solving techniques to coding challenges, our repository covers a wide range of topics to cater to all levels of expertise.
+This repository is a curated collection of high-quality resources to help you learn and master **Data Structures and Algorithms (DSA)**.
 
-But the beauty of this repository lies not only in the resources we have assembled, but also in the opportunity it presents for you to actively contribute and enrich the community. We believe in the power of collective knowledge and encourage members to share their own resources, insights, and innovations related to DSA. By leveraging the collective wisdom of our community, we can create a dynamic and ever-evolving platform for learning and growth.
+## 📌 Why This Repository?
 
+This is the **most comprehensive** free DSA resource with:
+
+You'll find:
 
 1. [Books](https://github.com/avinash201199/DSA-Resources/tree/main/Books)<br>
 2. [Coding platforms](https://github.com/avinash201199/DSA-Resources/tree/main/Top-Coding-Platforms) <br>
@@ -28,9 +34,9 @@ But the beauty of this repository lies not only in the resources we have assembl
 📌 Instagram Page Handle - https://www.instagram.com/lets__code/ <br>
 
 
-Thank you !
+## ❤️ Support This Project
 
-[![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
+[![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)  
+If this repo helped you, consider [sponsoring me](https://github.com/sponsors/avinash201199) or [buying me a coffee via PayPal](https://paypal.me/Avinash425).
 
-[PayPal me to show some support](https://paypal.me/Avinash425) 
 
