@@ -3,9 +3,9 @@
 
 *Your complete roadmap to mastering Data Structures & Algorithms*
 
-[![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resources/commits)
+[![GitHub Stars](https://img.shields.io/github/stars/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/avinash201199/Awesome-DSA-Resources?style=flat-square)](https://github.com/avinash201199/Awesome-DSA-Resource/commits)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=avinash201199.Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources)
 
 
