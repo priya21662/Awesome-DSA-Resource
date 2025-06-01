@@ -47,10 +47,10 @@ Your input helps improve this resource for everyone.
 
 ---
 
-## 🙏 Acknowledgments  
+## Acknowledgments  
 
 A heartfelt thanks to all contributors who help grow this resource!  
 
-[![Contributors](https://contrib.rocks/image?repo=avinash201199/Awesome-DSA-Resources)](https://github.com/avinash201199/Awesome-DSA-Resources/graphs/contributors)  
+[![Contributors](https://contrib.rocks/image?repo=avinash201199/Awesome-DSA-Resource)](https://github.com/avinash201199/Awesome-DSA-Resource/graphs/contributors)
 
 ⭐ **Tip**: Star the repo to stay updated on new additions!  
