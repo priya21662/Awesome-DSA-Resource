@@ -34,6 +34,10 @@ You'll find:
 
 <hr>
 
+### 🤝 Contributing
+
+We welcome contributions from everyone! Please read our [Contribution Guidelines](CONTRIBUTING.md) before getting started.
+
 ### 🙌 Contributors
 
 Thanks to all the amazing people who have contributed so far! 🙌
