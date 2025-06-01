@@ -1,4 +1,4 @@
-# 𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐜𝐫𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐧𝐞𝐱𝐭 𝐜𝐨𝐝𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰! (Let's Code)
+# 𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐜𝐫𝐚𝐜𝐤 𝐲𝐨𝐮𝐫 𝐧𝐞𝐱𝐭 𝐜𝐨𝐝𝐢𝐧𝐠 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰! 
 
 Welcome to your go-to guide for mastering coding interviews using **LeetCode**! Whether you're a beginner just getting started, preparing for your first technical interview, or brushing up on advanced system design, this curated collection of resources has you covered.
 
@@ -92,4 +92,4 @@ Start from wherever you are in your journey — and remember, **consistency is k
 
 [DSA Roadmap with Resources](https://www.lets-code.co.in/articles/dsa/)
 
-Join our [WhatsApp channel](https://www.whatsapp.com/channel/0029Va9IblC7dmecjzkkn811) for more resources!
+
