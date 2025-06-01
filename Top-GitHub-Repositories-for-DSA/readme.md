@@ -7,5 +7,6 @@
 5. [DSA-JavaScript](https://github.com/trekhleb/javascript-algorithms) – Detailed JavaScript implementations of classic DSA problems and algorithms.   
 6. [Striver’s SDE Sheet Solutions](https://github.com/vineethm1627/SDE_Sheet_Striver) – Solutions for the popular Striver SDE Sheet coding problems.  
 7. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) – Curated list of resources for competitive programming including DSA repositories.  
-8. [AlgoExpert Solutions](https://github.com/das-jishu/algoexpert-data-structures-algorithms) – Patterns and solutions from AlgoExpert curated problems.  
+8. [AlgoExpert Solutions](https://github.com/das-jishu/algoexpert-data-structures-algorithms) – Patterns and solutions from AlgoExpert curated problems.
+9. [Company wise LeetCode Questions](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) 
 
