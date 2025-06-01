@@ -10,5 +10,4 @@
 8. [TopCoder](https://www.topcoder.com/) – One of the oldest platforms for algorithm competitions and Single Round Matches (SRMs).  
 9. [Exercism](https://exercism.org/) – Practice DSA and programming exercises with mentor-based feedback across multiple languages.  
 10. [InterviewBit](https://www.interviewbit.com/) – Guided DSA preparation for interviews with topic sequencing and company-wise practice.  
-11. [AlgoExpert](https://www.algoexpert.io/) *(Paid)* – Curated high-quality DSA problems with video explanations for interview prep.  
-12. [CSES Problem Set](https://cses.fi/problemset/) – Excellent resource for building foundational DSA skills with categorized problems.  
+11. [CSES Problem Set](https://cses.fi/problemset/) – Excellent resource for building foundational DSA skills with categorized problems.  
