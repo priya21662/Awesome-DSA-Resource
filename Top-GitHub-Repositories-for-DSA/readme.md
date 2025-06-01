@@ -8,4 +8,4 @@
 6. [Striver’s SDE Sheet Solutions (https://github.com/vineethm1627/SDE_Sheet_Striver) – Solutions for the popular Striver SDE Sheet coding problems.  
 7. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) – Curated list of resources for competitive programming including DSA repositories.  
 8. [AlgoExpert Solutions](https://github.com/das-jishu/algoexpert-data-structures-algorithms) – Patterns and solutions from AlgoExpert curated problems.  
-9. [DSA with Python](https://github.com/TheAlgorithms/Python) – Python data structures implementations from The Algorithms repo.  
+
