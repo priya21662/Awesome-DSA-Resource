@@ -43,7 +43,7 @@ Your input helps improve this resource for everyone.
 ## 🆘 Need Help?  
 
 - Check existing issues for similar questions  
-- Join our community discussions [https://discord.com/invite/XRBheB9QF9]  
+- Join our [community discussions](https://discord.com/invite/XRBheB9QF9)
 
 ---
 
