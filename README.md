@@ -23,7 +23,7 @@ You'll find:
 4. [DSA Interview Questions](https://github.com/avinash201199/DSA-Resources/tree/main/DSA-Interview-Questions)<br />
 5. [DSA Cheatsheet](https://github.com/avinash201199/Awesome-DSA-Resource/tree/main/DSA-Cheatsheet)<br />
 6. [DSA Resource from Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)<br />
-7. [Notes](https://github.com/avinash201199/DSA-Resources/tree/main/Notes)<br />
+7. [DSA Notes](https://github.com/avinash201199/DSA-Resources/tree/main/Notes)<br />
 8. [SDE Sheets](https://github.com/avinash201199/DSA-Resources/tree/main/Best%20DSA%20Sheets)<br />
 9. [RoadMap](https://www.lets-code.co.in/articles/dsa/)<br />
 10. [LeetCode Resources](https://github.com/avinash201199/Awesome-DSA-Resource/tree/main/Leetcode-Resources)<br />
