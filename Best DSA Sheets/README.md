@@ -1,4 +1,4 @@
-#### 🧩 Some Famous SDE Sheets
+### Some Famous SDE Sheets
 
 If you're preparing for software development roles, these curated SDE sheets are your best companions. They contain handpicked problems covering data structures, algorithms, and system design essentials—all geared toward acing coding interviews at top tech companies.
 
