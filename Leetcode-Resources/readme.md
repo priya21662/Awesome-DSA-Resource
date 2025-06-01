@@ -88,8 +88,5 @@ Start from wherever you are in your journey — and remember, **consistency is k
 
 > ✨ **Tip:** Bookmark this list or save it to your study dashboard for consistent progress!
 
-[LeetCode Top Interview 150](https://www.lets-code.co.in/articles/leetcodetop150questions/)
-
-[DSA Roadmap with Resources](https://www.lets-code.co.in/articles/dsa/)
 
 
